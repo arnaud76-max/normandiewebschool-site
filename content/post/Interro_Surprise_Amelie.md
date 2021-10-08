@@ -10,7 +10,7 @@ archives = "2021"
 seo_image = "/uploads/post/Interro_Amelie.jpg"
 +++
 
-![postwidth](/uploads/post/Interro_Amelie.jpg)
+(/uploads/post/Interro_Amelie.jpg)
 
 Retour sur Amélie qui donne son avis sur l'école.
 
@@ -26,4 +26,4 @@ On inverse les rôles ! Nos étudiant(e)s notent l'école : cadre de vie, format
 
 Découvrez le résultat dans cette courte vidéo :
 
-[![postwidth](/uploads/post/Interro_Amelie_YT.jpg)](https://youtu.be/dJAObreg51E "Normandie Web School Interro surprise Amélie")
+(/uploads/post/Interro_Amelie_YT.jpg)](https://youtu.be/dJAObreg51E "Normandie Web School Interro surprise Amélie")
