@@ -3,8 +3,11 @@
 @import 'responsive';
 //@import 'row-eq-height';
 
-img{ 
+img[alt=postwidth]{ 
   width:  100%; 
+}
+img {
+  width: 100%;
 }
 
 .color-violet {
