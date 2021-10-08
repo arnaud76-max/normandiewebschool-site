@@ -7,10 +7,10 @@ tags = [
 ]
 date = "2021-07-30"
 archives = "2021"
-seo_image = "/uploads/post/Interro_Amelie.png"
+seo_image = "/uploads/post/Interro_Amelie.jpg"
 +++
 
-![postwidth](/uploads/post/Interro_Amelie.png)
+![postwidth](/uploads/post/Interro_Amelie.jpg)
 
 Retour sur Amélie qui donne son avis sur l'école.
 
