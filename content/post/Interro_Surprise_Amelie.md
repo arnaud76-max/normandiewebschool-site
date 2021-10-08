@@ -10,7 +10,7 @@ archives = "2021"
 seo_image = "/uploads/post/Interro_Amelie.jpg"
 +++
 
-!twidth](/uploads/post/Interro_Amelie.jpg)
+![width](/uploads/post/Interro_Amelie.jpg)
 
 Retour sur Amélie qui donne son avis sur l'école.
 
