@@ -26,4 +26,4 @@ On inverse les rôles ! Nos étudiant(e)s notent l'école : cadre de vie, format
 
 Découvrez le résultat dans cette courte vidéo :
 
-![width](/uploads/post/Interro_Amelie_YT.jpg)](https://youtu.be/dJAObreg51E "Normandie Web School Interro surprise Amélie")
+[![width](/uploads/post/Interro_Amelie_YT.jpg)](https://youtu.be/dJAObreg51E "Normandie Web School Interro surprise Amélie")
