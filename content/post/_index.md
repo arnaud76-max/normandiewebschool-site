@@ -8,7 +8,7 @@ banner:
   title: La vie à la school
   title-line-twho: ''
   subtitle: Retrouvez ici nos différents articles (projets, événements, interviews...)
-  image: "/uploads/Blog_NWS.jpg"
+  image: "/uploads/Blog_NWS1.jpg"
 about:
   enable: true
   title: Les différentes étapes
