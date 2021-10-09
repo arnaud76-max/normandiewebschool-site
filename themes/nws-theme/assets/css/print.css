@@ -694,7 +694,8 @@ HERO HEADER
 //Burger menu
 #burger {
   cursor: pointer;
-  z-index: 4;
+  width: 28px;
+  height: 19px;
 }
 
 // Side Menu
